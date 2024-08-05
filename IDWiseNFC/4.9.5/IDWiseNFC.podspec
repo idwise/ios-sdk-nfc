@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'IDWiseNFC.framework' # Your XCFramework
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
-  s.dependency 'DocumentReader'
-  s.dependency 'DocumentReaderMRZRFID'
+  s.dependency 'DocumentReader' , '6.8.2981'
+  s.dependency 'DocumentReaderMRZRFID' , '6.8.7687' 
  
 
 
