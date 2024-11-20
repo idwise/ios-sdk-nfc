@@ -20,7 +20,6 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.dependency 'DocumentReader' 
   s.dependency 'DocumentReaderMRZRFID'
-  s.dependency 'FingerprintPro', '~> 2.7.0'
 
  
 
