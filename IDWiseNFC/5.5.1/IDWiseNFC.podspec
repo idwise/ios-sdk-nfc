@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.dependency 'DocumentReader' 
   s.dependency 'DocumentReaderMRZRFID'
   s.dependency 'FingerprintPro', '~> 2.7.0'
-
+  s.dependency 'Shield-Ptr', '~> 1.5.49'
  
 
 
