@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.idwise.com/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.author           = { 'IDWise LTD' => 'https://www.idwise.com/' }
-  s.source           = { :http => 'http://mobile-sdk.idwise.ai/ios-sdk-nfc/5.8.0/IDWiseNFC.xcframework.zip' }
+  s.source           = { :http => 'http://mobile-sdk.idwise.ai/ios-sdk-nfc/6.2.0/IDWiseNFC.xcframework.zip' }
   s.ios.vendored_frameworks = 'IDWiseNFC.xcframework' # Your XCFramework
   s.ios.deployment_target = '15.6'
   s.swift_version = '5.0'
